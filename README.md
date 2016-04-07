@@ -1,5 +1,5 @@
 # material-snackbar
-A vanila css/js material snackbar
+A css/js material snackbar
 
 Demo: http://codepen.io/roshangautam/pen/aNEWbE
 
