@@ -1,8 +1,11 @@
 # material-snackbar
 A vanila css/js material snackbar
 
+Demo: http://codepen.io/roshangautam/pen/aNEWbE
+
 This is based on the work from the following codepen 
 http://codepen.io/wibblymat/pen/avAjq
+
 ##usage
 ```
 var longMessage = "This is a longer message that won't fit on one line. It is, inevitably, quite a boring thing. Hopefully it is still useful.";
